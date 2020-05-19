@@ -43,7 +43,7 @@ body{
 
 .header-overlay{
     height: 100vh;
-    width: 100vw;
+    width: 100vw; /* now this overlay will cover the page*/
     position: absolute; /*understand reasoning*/
     top: 0;
     left: 0;
